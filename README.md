@@ -13,6 +13,9 @@
      - `database` volume will be located under `./database`
 
 3. **Environment**
+
+   Create `.env` file in project root folder or copy `.env.example`
+
      - `db_root_password` (required): Default root password. Set any, e.g. `root`
      - `db_host` (required): Database host. `db:3306`
      - `db_name` (required): WordPress database name. e.g. `my_database`
