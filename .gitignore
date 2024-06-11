@@ -1,0 +1,6 @@
+/database
+/mysqldumps/backup.sql
+/site/wp-content/*
+.env
+.DS_Store
+.idea
