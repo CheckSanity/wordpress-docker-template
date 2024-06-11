@@ -21,7 +21,7 @@
      - `db_table_prefix` (optional): WordPress tables prefix (if appliable). e.g. `dFlCnAD_`
      - `wp_plugins_to_disable` (optional): Folder names of plugin to be disabled. e.g `duplicator,elementor`
      - `wp_debug_mode` (optional): Turns on WordPress DEBUG mode if set
-     - `production_url` (required): URL of your production site. e.g. `https://yourproductionsite.com/`. This will search provided link in database and replace `options.home` and `options.siteurl` with 'http://localhost/' 
+     - `production_url` (required): URL of your production site. e.g. `https://yourproductionsite.com/`. This will search provided link in database and replace `options.home` and `options.siteurl` with `http://localhost/` 
 
 4. **Running**
 ```bash
