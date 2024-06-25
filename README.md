@@ -42,7 +42,7 @@ If using with Elementor, do not forget to go to `Elementor -> Tools -> Replace U
 
 This version is created for specific project. Please update WordPress image version and MySQL version on your needs.
 Right now using:
-- `WordPress 6.4 with PHP 8.0`
+- `WordPress 6.5.5 with PHP 8.1`
 - `MySQL 8.0.36`
 
 ## Credits

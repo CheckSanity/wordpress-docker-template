@@ -1,4 +1,4 @@
-FROM wordpress:6.4-php8.0
+FROM wordpress:6.5.5-php8.1
 
 # Copy the script and set permissions
 COPY ./init/prep.sh /prep.sh
